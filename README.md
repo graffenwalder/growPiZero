@@ -7,10 +7,10 @@ If moisture readings are "Dry" for x consecutive intervals, the waterpump will a
 
 ## Hardware
 
-- Raspberry Pi Zero WH(https://www.kiwi-electronics.nl/raspberry-pi-zero-wh-header-voorgesoldeerd)
+- [Raspberry Pi Zero WH](https://www.kiwi-electronics.nl/raspberry-pi-zero-wh-header-voorgesoldeerd)
   - Adapter
   - 8GB SD Card
-- GrovePi Zero(https://www.dexterindustries.com/product/grovepizero/)
+- [GrovePi Zero](https://www.dexterindustries.com/product/grovepizero/)
   - [Moisture Sensor](http://wiki.seeedstudio.com/Grove-Moisture_Sensor/)
   - [Light Sensor](http://wiki.seeedstudio.com/Grove-Light_Sensor/)
   - [Mini Fan](http://wiki.seeedstudio.com/Grove-Mini_Fan/)
