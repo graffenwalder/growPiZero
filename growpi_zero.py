@@ -113,7 +113,8 @@ while True:
         appendCSV()
 
         loopTime = time.time() - t0
-        time.sleep(checkInterval - loopTime)
+        if checkInterval > loopTime:
+            time.sleep(checkInterval - loopTime)
 
     except KeyboardInterrupt:
         digitalWrite(waterPump, 0)
